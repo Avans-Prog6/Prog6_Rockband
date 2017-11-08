@@ -13,3 +13,9 @@ C:\Users\jd\Source\Repos\Prog6_Rockband\DependencyInjectionStarter\DependencyInj
 C:\Users\jd\Source\Repos\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.csprojResolveAssemblyReference.cache
 C:\Users\jd\Source\Repos\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.dll
 C:\Users\jd\Source\Repos\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.pdb
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.dll
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\bin\Debug\DependencyInjectionStarter.Library.pdb
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.csprojResolveAssemblyReference.cache
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.csproj.CoreCompileInputs.cache
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.dll
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_Rockband\DependencyInjectionStarter\DependencyInjectionStarter.Library\obj\Debug\DependencyInjectionStarter.Library.pdb

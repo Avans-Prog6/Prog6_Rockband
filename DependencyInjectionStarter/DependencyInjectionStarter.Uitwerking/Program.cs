@@ -1,4 +1,5 @@
 ﻿using DependencyInjectionStarter.Library;
+using Ninject;
 using System;
 using System.Collections.Generic;
 
@@ -9,15 +10,17 @@ namespace DependencyInjectionStarter
         /** Testing 123 */
         static void Main()
         {
-            List<IInstrument> instrumenten = new List<IInstrument>();
-            instrumenten.Add(new Guitar());
-            instrumenten.Add(new Guitar());
-            instrumenten.Add(new BassGuitar());
-            instrumenten.Add(new Drums());
-            instrumenten.Add(new Vocal());
+            ////via custom create band
+            //List<IInstrument> instrumenten = new List<IInstrument>();
+            //instrumenten.Add(new Guitar());
+            //instrumenten.Add(new Guitar());
+            //instrumenten.Add(new BassGuitar());
+            //instrumenten.Add(new Drums());
+            //instrumenten.Add(new Vocal());
 
-
-            var rockBand = new RockBand(instrumenten);
+            //Via locator
+            var locator = new BandLocator();
+            var rockBand = locator.DefaultRockband;
             rockBand.DoSoundCheck();
             Console.ReadLine();
         }
